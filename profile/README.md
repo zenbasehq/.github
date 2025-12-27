@@ -8,7 +8,6 @@ Building **Ninja** - The modern platform for streamlined operations and intellig
 
 ## Infrastructure
 
-- **Staging**: [staging.silentninja.tech](https://staging.silentninja.tech)
 - **CI/CD**: GitHub Actions + GitHub Container Registry
 - **Deployment**: Automated staging deployments on merge to `develop`
 
